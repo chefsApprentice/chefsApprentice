@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently in my third year of my BSc Computer Science at Royal Holloway UOL.
-- 🏡 Based in London.
-- 🌱 I’m currently learning C++ and systems design.
+- 🌱 I’m learning C++ and systems design
 
 
 <!--
