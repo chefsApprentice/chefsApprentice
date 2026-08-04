@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently in my third year of my BSc Computer Science at Royal Holloway UOL.
 - 🌱 I’m learning C++ and systems design
+- 🤓 Linux and VIM lover.
 
 
 <!--
