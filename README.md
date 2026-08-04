@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently in my third year of my BSc Computer Science at Royal Holloway UOL.
+- 🏡 Based in London.
+- 🌱 I’m currently learning C++ and systems design.
+
 
 <!--
 **chefsApprentice/chefsApprentice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
