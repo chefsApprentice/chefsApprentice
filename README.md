@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently in my third year of my BSc Computer Science in London.
+- 🔭 I’m currently in my third year of my BSc Computer Science in London after my placement at P&G.
 - 🌱 I’m learning C++ and systems design
 - 🤓 Linux and VIM lover.
 
