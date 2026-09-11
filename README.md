@@ -3,7 +3,7 @@
 - 🌱 I’m learning C++ and systems design
 - 🤓 Linux and VIM lover.
 
-
+ Feel free to check out my [portfolio](https://chefsapprentice.github.io/) .
 <!--
 **chefsApprentice/chefsApprentice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
